@@ -1,0 +1,15 @@
+ul.w3lab-ics-list{
+ list-style: none;
+ margin:0;
+}
+.w3lab-event {
+ padding:5px 0;
+}
+.w3lab-event a{
+ color:#535353;
+}
+.w3lab-event .dtstart{
+ display:block;
+ color:#898989;
+ border-bottom:1px solid #EEE;
+}
